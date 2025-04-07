@@ -17,8 +17,8 @@ This project implements a serverless function execution platform, similar to AWS
 1.  **Clone the Repository:**
 
     ```bash
-    git clone <your_repository_url>
-    cd <your_repository_directory>
+    git clone https://github.com/adityagirishh/week2_CC.git
+    cd https://github.com/adityagirishh/week2_CC.git
     ```
 
 2.  **Create and Activate a Virtual Environment (Recommended):**
