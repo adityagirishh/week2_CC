@@ -1,0 +1,6 @@
+   fastapi
+   uvicorn[standard]
+   SQLAlchemy
+   python-dotenv
+   docker
+   psycopg2-binary  # If you switch to PostgreSQL
